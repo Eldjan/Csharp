@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\Github 2\Tasks lesson 4\Tasks lesson 4\bin\Debug\Tasks lesson 4.exe.config
+C:\Users\hp\Desktop\Github 2\Tasks lesson 4\Tasks lesson 4\bin\Debug\Tasks lesson 4.exe
+C:\Users\hp\Desktop\Github 2\Tasks lesson 4\Tasks lesson 4\bin\Debug\Tasks lesson 4.pdb
+C:\Users\hp\Desktop\Github 2\Tasks lesson 4\Tasks lesson 4\obj\Debug\Tasks lesson 4.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Github 2\Tasks lesson 4\Tasks lesson 4\obj\Debug\Tasks lesson 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Github 2\Tasks lesson 4\Tasks lesson 4\obj\Debug\Tasks lesson 4.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Github 2\Tasks lesson 4\Tasks lesson 4\obj\Debug\Tasks lesson 4.exe
+C:\Users\hp\Desktop\Github 2\Tasks lesson 4\Tasks lesson 4\obj\Debug\Tasks lesson 4.pdb
