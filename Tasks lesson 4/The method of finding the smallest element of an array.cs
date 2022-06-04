@@ -18,11 +18,11 @@ namespace Tasks_lesson_4
             {
                 for (int j = 0; j < array.Length - 1; j++)
                 {
-                    if (array[j] > array[j + 1])
+                    if (array[j] > array[j -1])
                     {
                         n = array[j];
-                        array[j] = array[j + 1];
-                        array[j + 1] = n;
+                        array[j] = array[j -1];
+                        array[j - 1] = n;
                     }
                 }
             }

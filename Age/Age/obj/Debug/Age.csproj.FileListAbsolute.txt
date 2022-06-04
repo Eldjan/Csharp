@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\github3\Age\Age\bin\Debug\Age.exe.config
+C:\Users\hp\Desktop\github3\Age\Age\bin\Debug\Age.exe
+C:\Users\hp\Desktop\github3\Age\Age\bin\Debug\Age.pdb
+C:\Users\hp\Desktop\github3\Age\Age\obj\Debug\Age.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\github3\Age\Age\obj\Debug\Age.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\github3\Age\Age\obj\Debug\Age.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\github3\Age\Age\obj\Debug\Age.exe
+C:\Users\hp\Desktop\github3\Age\Age\obj\Debug\Age.pdb
