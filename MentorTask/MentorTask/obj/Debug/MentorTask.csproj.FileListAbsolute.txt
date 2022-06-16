@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\Github 2\MentorTask\MentorTask\bin\Debug\MentorTask.exe.config
+C:\Users\hp\Desktop\Github 2\MentorTask\MentorTask\bin\Debug\MentorTask.exe
+C:\Users\hp\Desktop\Github 2\MentorTask\MentorTask\bin\Debug\MentorTask.pdb
+C:\Users\hp\Desktop\Github 2\MentorTask\MentorTask\obj\Debug\MentorTask.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Github 2\MentorTask\MentorTask\obj\Debug\MentorTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Github 2\MentorTask\MentorTask\obj\Debug\MentorTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Github 2\MentorTask\MentorTask\obj\Debug\MentorTask.exe
+C:\Users\hp\Desktop\Github 2\MentorTask\MentorTask\obj\Debug\MentorTask.pdb

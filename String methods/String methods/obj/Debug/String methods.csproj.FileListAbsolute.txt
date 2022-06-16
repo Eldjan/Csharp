@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\Github 2\String methods\String methods\bin\Debug\String methods.exe.config
+C:\Users\hp\Desktop\Github 2\String methods\String methods\bin\Debug\String methods.exe
+C:\Users\hp\Desktop\Github 2\String methods\String methods\bin\Debug\String methods.pdb
+C:\Users\hp\Desktop\Github 2\String methods\String methods\obj\Debug\String methods.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Github 2\String methods\String methods\obj\Debug\String methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Github 2\String methods\String methods\obj\Debug\String methods.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Github 2\String methods\String methods\obj\Debug\String methods.exe
+C:\Users\hp\Desktop\Github 2\String methods\String methods\obj\Debug\String methods.pdb
