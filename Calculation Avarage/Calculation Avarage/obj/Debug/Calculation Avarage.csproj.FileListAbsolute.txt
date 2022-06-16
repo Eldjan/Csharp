@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\Github 2\Calculation Avarage\Calculation Avarage\bin\Debug\Calculation Avarage.exe.config
+C:\Users\hp\Desktop\Github 2\Calculation Avarage\Calculation Avarage\bin\Debug\Calculation Avarage.exe
+C:\Users\hp\Desktop\Github 2\Calculation Avarage\Calculation Avarage\bin\Debug\Calculation Avarage.pdb
+C:\Users\hp\Desktop\Github 2\Calculation Avarage\Calculation Avarage\obj\Debug\Calculation Avarage.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Github 2\Calculation Avarage\Calculation Avarage\obj\Debug\Calculation Avarage.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Github 2\Calculation Avarage\Calculation Avarage\obj\Debug\Calculation Avarage.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Github 2\Calculation Avarage\Calculation Avarage\obj\Debug\Calculation Avarage.exe
+C:\Users\hp\Desktop\Github 2\Calculation Avarage\Calculation Avarage\obj\Debug\Calculation Avarage.pdb

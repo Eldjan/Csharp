@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("String methods")]
+[assembly: AssemblyTitle("Calculation Avarage")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("String methods")]
+[assembly: AssemblyProduct("Calculation Avarage")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("621a83d9-c2f6-49e9-ac34-86c9cd87b004")]
+[assembly: Guid("b1e44279-11c1-46fa-9ab1-4afe322c52c4")]
 
 // Version information for an assembly consists of the following four values:
 //
