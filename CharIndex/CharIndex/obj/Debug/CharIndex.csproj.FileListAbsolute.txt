@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\Github 2\CharIndex\CharIndex\bin\Debug\CharIndex.exe.config
+C:\Users\hp\Desktop\Github 2\CharIndex\CharIndex\bin\Debug\CharIndex.exe
+C:\Users\hp\Desktop\Github 2\CharIndex\CharIndex\bin\Debug\CharIndex.pdb
+C:\Users\hp\Desktop\Github 2\CharIndex\CharIndex\obj\Debug\CharIndex.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Github 2\CharIndex\CharIndex\obj\Debug\CharIndex.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Github 2\CharIndex\CharIndex\obj\Debug\CharIndex.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Github 2\CharIndex\CharIndex\obj\Debug\CharIndex.exe
+C:\Users\hp\Desktop\Github 2\CharIndex\CharIndex\obj\Debug\CharIndex.pdb
