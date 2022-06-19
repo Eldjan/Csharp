@@ -1,4 +1,35 @@
-﻿Build started...
-1>------ Build started: Project: CharIndex, Configuration: Debug Any CPU ------
-1>  CharIndex -> C:\Users\hp\Desktop\Github 2\CharIndex\CharIndex\bin\Debug\CharIndex.exe
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+﻿
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CharIndex
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+      
+            FindCharIndex("salam",'a');
+        }
+        public static void FindCharIndex(string str, char ch)
+        {
+            for (int i = 0; i < str.Length; i++)
+            {
+                if (str[i] == ch)
+                {
+                    Console.WriteLine(i);
+                    break;
+                }
+                else if (i == str.Length - 1)
+                {
+                    Console.WriteLine("-1");
+                }
+            }
+        }
+           
+        }
+}
+
