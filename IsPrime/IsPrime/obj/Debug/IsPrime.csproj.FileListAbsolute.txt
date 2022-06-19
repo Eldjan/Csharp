@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\Github 2\IsPrime\IsPrime\bin\Debug\IsPrime.exe.config
+C:\Users\hp\Desktop\Github 2\IsPrime\IsPrime\bin\Debug\IsPrime.exe
+C:\Users\hp\Desktop\Github 2\IsPrime\IsPrime\bin\Debug\IsPrime.pdb
+C:\Users\hp\Desktop\Github 2\IsPrime\IsPrime\obj\Debug\IsPrime.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Github 2\IsPrime\IsPrime\obj\Debug\IsPrime.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Github 2\IsPrime\IsPrime\obj\Debug\IsPrime.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Github 2\IsPrime\IsPrime\obj\Debug\IsPrime.exe
+C:\Users\hp\Desktop\Github 2\IsPrime\IsPrime\obj\Debug\IsPrime.pdb
