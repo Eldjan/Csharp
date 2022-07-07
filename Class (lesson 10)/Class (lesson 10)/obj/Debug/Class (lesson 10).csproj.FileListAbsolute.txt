@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\Github 2\Class (lesson 10)\Class (lesson 10)\bin\Debug\Class (lesson 10).exe.config
+C:\Users\hp\Desktop\Github 2\Class (lesson 10)\Class (lesson 10)\bin\Debug\Class (lesson 10).exe
+C:\Users\hp\Desktop\Github 2\Class (lesson 10)\Class (lesson 10)\bin\Debug\Class (lesson 10).pdb
+C:\Users\hp\Desktop\Github 2\Class (lesson 10)\Class (lesson 10)\obj\Debug\Class (lesson 10).csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Github 2\Class (lesson 10)\Class (lesson 10)\obj\Debug\Class (lesson 10).csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Github 2\Class (lesson 10)\Class (lesson 10)\obj\Debug\Class (lesson 10).csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Github 2\Class (lesson 10)\Class (lesson 10)\obj\Debug\Class (lesson 10).exe
+C:\Users\hp\Desktop\Github 2\Class (lesson 10)\Class (lesson 10)\obj\Debug\Class (lesson 10).pdb
