@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1D46A471-E949-406A-AF9F-9DCF13953462}</ProjectGuid>
+    <ProjectGuid>{E86A6C65-9DA2-4297-9E20-67E4814BD923}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Class__lesson_10_</RootNamespace>
-    <AssemblyName>Class %28lesson 10%29</AssemblyName>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>ConsoleApp1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class.cs" />
+    <Compile Include="..\Program.cs">
+      <Link>Program.cs</Link>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

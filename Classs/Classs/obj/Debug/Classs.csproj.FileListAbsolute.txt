@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\Github 2\Classs\Classs\bin\Debug\Classs.exe.config
+C:\Users\hp\Desktop\Github 2\Classs\Classs\bin\Debug\Classs.exe
+C:\Users\hp\Desktop\Github 2\Classs\Classs\bin\Debug\Classs.pdb
+C:\Users\hp\Desktop\Github 2\Classs\Classs\obj\Debug\Classs.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Github 2\Classs\Classs\obj\Debug\Classs.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Github 2\Classs\Classs\obj\Debug\Classs.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Github 2\Classs\Classs\obj\Debug\Classs.exe
+C:\Users\hp\Desktop\Github 2\Classs\Classs\obj\Debug\Classs.pdb
